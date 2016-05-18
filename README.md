@@ -2,7 +2,7 @@ This repository is for managing issues and documents for the GA4GH integration g
 
 ## Repositories
 
-### SRL
+### ga4gh-testing
 
 Contains ansible playbook for performing load testing on a reference server.
 
