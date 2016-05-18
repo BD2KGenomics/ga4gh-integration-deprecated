@@ -1,6 +1,3 @@
-[submodule "SRL"]
-	path = SRL
-	url = https://github.com/ljishen/SRL.git
 [submodule "bioapi-examples"]
 	path = bioapi-examples
 	url = https://github.com/david4096/bioapi-examples
