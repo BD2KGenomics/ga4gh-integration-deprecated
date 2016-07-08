@@ -13,3 +13,9 @@
 [submodule "compliance"]
 	path = compliance
 	url = git@github.com:ga4gh/compliance.git
+[submodule "vcf_to_ga"]
+	path = vcf_to_ga
+	url = git@github.com:Arc39/vcf_to_ga.git
+[submodule "ga4gh-catalog"]
+	path = ga4gh-catalog
+	url = git@github.com:david4096/ga4gh-catalog.git
