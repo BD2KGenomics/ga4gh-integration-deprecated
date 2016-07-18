@@ -29,3 +29,8 @@ A GA4GH genomics API implementation written in Python/Flask.
 ### vcf_to_ga
 
 Converts vcf to GA4GH objects for storage and analysis.
+
+
+_______
+
+How to update all submodules: `git submodule foreach git pull origin master`
