@@ -19,3 +19,6 @@
 [submodule "ga4gh-catalog"]
 	path = ga4gh-catalog
 	url = git@github.com:david4096/ga4gh-catalog.git
+[submodule "Beacon-on-GA4GH-API"]
+	path = Beacon-on-GA4GH-API
+	url = git@github.com:kozbo/Beacon-on-GA4GH-API.git
