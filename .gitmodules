@@ -1,6 +1,3 @@
-[submodule "bioapi-examples"]
-	path = bioapi-examples
-	url = https://github.com/david4096/bioapi-examples
 [submodule "ga4gh-testing"]
 	path = ga4gh-testing
 	url = https://github.com/ljishen/ga4gh-testing.git
@@ -13,12 +10,21 @@
 [submodule "compliance"]
 	path = compliance
 	url = git@github.com:ga4gh/compliance.git
-[submodule "vcf_to_ga"]
-	path = vcf_to_ga
-	url = git@github.com:Arc39/vcf_to_ga.git
 [submodule "ga4gh-catalog"]
 	path = ga4gh-catalog
 	url = git@github.com:david4096/ga4gh-catalog.git
 [submodule "Beacon-on-GA4GH-API"]
 	path = Beacon-on-GA4GH-API
 	url = git@github.com:kozbo/Beacon-on-GA4GH-API.git
+[submodule "vcf-to-ga"]
+	path = vcf-to-ga
+	url = git@github.com:BD2KGenomics/vcf-to-ga.git
+[submodule "bioapi-examples"]
+	path = bioapi-examples
+	url = git@github.com:BD2KGenomics/bioapi-examples.git
+[submodule "ga4gh-gemini"]
+	path = ga4gh-gemini
+	url = git@github.com:BD2KGenomics/ga4gh-gemini.git
+[submodule "23andMe-brca-exchange"]
+	path = 23andMe-brca-exchange
+	url = git@github.com:BD2KGenomics/23andMe-brca-exchange.git

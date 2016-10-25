@@ -2,6 +2,14 @@ This repository is for managing issues and documents for the GA4GH integration g
 
 ## Repositories
 
+### 23andMe-brca-exchange
+
+Get expert annotations for your BRCA variants.
+
+### Beacon-on-GA4GH-API
+
+Implement the GA4GH Beacon protocol using a GA4GH Genomics API client.
+
 ### bioapi-examples
 
 Contains demonstration code for accessing the bioinformatics APIs.
@@ -13,6 +21,10 @@ An HTTP testing suite for the reference GA4GH server.
 ### ga4gh-catalog
 
 Lists the contents of a ga4gh server.
+
+### ga4gh-gemini
+
+Implement ga4gh interfaces over the Gemini variant database.
 
 ### ga4gh-testing
 
@@ -26,7 +38,7 @@ Protocol buffers IDL describing genomics data structures and protocols.
 
 A GA4GH genomics API implementation written in Python/Flask.
 
-### vcf_to_ga
+### vcf-to-ga
 
 Converts vcf to GA4GH objects for storage and analysis.
 
