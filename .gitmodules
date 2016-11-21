@@ -28,3 +28,6 @@
 [submodule "23andMe-brca-exchange"]
 	path = 23andMe-brca-exchange
 	url = git@github.com:BD2KGenomics/23andMe-brca-exchange.git
+[submodule "treehouse-ga4gh"]
+	path = treehouse-ga4gh
+	url = git@github.com:UCSC-Treehouse/ga4gh.git
