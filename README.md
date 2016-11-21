@@ -38,6 +38,10 @@ Protocol buffers IDL describing genomics data structures and protocols.
 
 A GA4GH genomics API implementation written in Python/Flask.
 
+### treehouse-ga4gh
+
+Various tools to ingest the Treehouse RNASeq reference compendium into a ga4gh server perform some basic differential expression level analysis.
+
 ### vcf-to-ga
 
 Converts vcf to GA4GH objects for storage and analysis.
